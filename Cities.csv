@@ -1,0 +1,25 @@
+S.no,City,Country,Continent,Latitude,Longitude
+1,Tokyo,Japan,Asia,35.682839,139.759455
+2,Beijing,China,Asia,39.904202,116.407396
+3,Mumbai,India,Asia,19.07609,72.877426
+4,Jakarta,Indonesia,Asia,-6.208763,106.845599
+5,Cairo,Egypt,Africa,30.04442,31.235712
+6,Lagos,Nigeria,Africa,6.524379,3.379206
+7,Johannesburg,South Africa,Africa,-26.204103,28.047305
+8,Nairobi,Kenya,Africa,-1.286389,36.817223
+9,Buenos Aires,Argentina,South America,-34.603684,-58.381559
+10,S?o Paulo,Brazil,South America,-23.55052,-46.633308
+11,Santiago,Chile,South America,-33.44889,-70.669265
+12,Lima,Peru,South America,-12.046374,-77.042793
+13,New York City,USA,North America,40.712776,-74.005974
+14,Toronto,Canada,North America,43.65107,-79.347015
+15,Mexico City,Mexico,North America,19.432608,-99.133209
+16,Los Angeles,USA,North America,34.052235,-118.243683
+17,London,United Kingdom,Europe,51.507351,-0.127758
+18,Berlin,Germany,Europe,52.520008,13.404954
+19,Paris,France,Europe,48.856613,2.352222
+20,Madrid,Spain,Europe,40.416775,-3.70379
+21,Moscow,Russia,Europe,55.755825,37.617298
+22,Canberra,Australia,Australia,-35.280937,149.130009
+23,Sydney,Australia,Australia,-33.86882,151.20929
+24,Melbourne,Australia,Australia,-37.813629,144.963058
